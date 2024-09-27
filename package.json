@@ -14,7 +14,9 @@
     "react-router-dom": "^6.26.2",
     "react-scripts": "^5.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
   "license": "ISC",
   "browserslist": {
     "production": [

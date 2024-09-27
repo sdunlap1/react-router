@@ -5,7 +5,7 @@ function Chips() {
   return (
     <div>
       <h2>Enjoy your Chips!</h2>
-      <img src="https://example.com/chips.png" alt="Chips" />
+      <img src="/pics/chips.gif" alt="Chips" />
       <p><Link to="/">Go Back</Link></p>
     </div>
   );
